@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=0BA922&center=true&vCenter=true&random=false&width=435&lines=└──╼+$+whoami)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=2500&color=0BA922&center=true&vCenter=true&random=false&width=435&lines=──╼+$+Ahmed+Mahmoud+aka+M4shl3)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=5000&color=0BA922&center=true&vCenter=true&random=false&width=435&lines=%E2%94%94%E2%94%80%E2%94%80%E2%95%BC%24+Everything+is+Forensics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0BA922&background=00000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+Ahmed+Mahmoud+(M4shl3);Cyber+Security+%26+Forensics+Enthusiast;Everything+is+Forensics!)](https://git.io/typing-svg)
 
 - 📫 How to reach me:
   - Discord: m4shl3 
