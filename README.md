@@ -3,4 +3,4 @@
 ### 🔗 Connect with Me  
   - <img src="https://img.icons8.com/color/24/000000/discord-new-logo.png" width="18"/> **Discord:** `m4shl3`  
   - <img src="https://img.icons8.com/color/24/000000/linkedin.png" width="18"/> **LinkedIn:** [m4shl3](https://www.linkedin.com/in/m4shl3)  
-  - <img src="https://img.icons8.com/fluency/24/000000/notepad.png" width="18"/> **Blog:** [HackMD](https://hackmd.io/@M4shl3)  
+  - <img src="https://raw.githubusercontent.com/hackmdio/brand/master/logo/svg/monochrome.svg" width="18" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(100deg)"/> **Blog:** [HackMD](https://hackmd.io/@M4shl3)
