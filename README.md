@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0BA922&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+My+name+is+Ahmed+Mahmoud+aka+M4shl3)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=Everything+is+Forensic)](https://git.io/typing-svg)
 
 
 - 📫 How to reach me:
